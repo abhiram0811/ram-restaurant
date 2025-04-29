@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\IndianRestaurant.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IndianRestaurant.pm1qscr611.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\images\\3727bf84-4ecd-486e-bfbb-8e79ea319252_butterchicken.jpg",
+      "PackagePath": "staticwebassets\\images\\3727bf84-4ecd-486e-bfbb-8e79ea319252_butterchicken.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\images\\biryani.jpg",
+      "PackagePath": "staticwebassets\\images\\biryani.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\images\\butterchicken.jpg",
+      "PackagePath": "staticwebassets\\images\\butterchicken.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\images\\ca2ff972-e0e0-47e9-b5e8-9520b0ae6019_about.png",
+      "PackagePath": "staticwebassets\\images\\ca2ff972-e0e0-47e9-b5e8-9520b0ae6019_about.png"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\images\\chickentikkamasala.jpg",
+      "PackagePath": "staticwebassets\\images\\chickentikkamasala.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\images\\goatcurry.jpg",
+      "PackagePath": "staticwebassets\\images\\goatcurry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\images\\gobi.jpg",
+      "PackagePath": "staticwebassets\\images\\gobi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\images\\icons8-ram-32.png",
+      "PackagePath": "staticwebassets\\images\\icons8-ram-32.png"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\images\\mangolassi.jpg",
+      "PackagePath": "staticwebassets\\images\\mangolassi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\images\\naan.jpg",
+      "PackagePath": "staticwebassets\\images\\naan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\images\\paneertikka.jpg",
+      "PackagePath": "staticwebassets\\images\\paneertikka.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\images\\ram-logo.png",
+      "PackagePath": "staticwebassets\\images\\ram-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\images\\samosa.jpg",
+      "PackagePath": "staticwebassets\\images\\samosa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabhi\\source\\repos\\IndianRestaurant\\IndianRestaurant\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.IndianRestaurant.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.IndianRestaurant.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.IndianRestaurant.props",
+      "PackagePath": "build\\IndianRestaurant.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.IndianRestaurant.props",
+      "PackagePath": "buildMultiTargeting\\IndianRestaurant.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.IndianRestaurant.props",
+      "PackagePath": "buildTransitive\\IndianRestaurant.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
